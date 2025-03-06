@@ -1,2 +1,2 @@
 # CS-30-Fighters-Project
-Used to Store Fighters Pt 1, 2 and 3
+Hello! This repositary is to store all of the versions of my Computer Science 30 Fighters project!
